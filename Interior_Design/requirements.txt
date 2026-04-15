@@ -1,0 +1,17 @@
+cloudinary
+pandas
+playwright
+requests
+beautifulsoup4
+lxml
+pandas
+python-dotenv
+cohere
+ultralytics
+opencv-python
+segment-anything
+torch
+torchvision
+rembg
+pillow
+onnxruntime

@@ -1,0 +1,42 @@
+frontend/
+**/models/
+**/.env
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# Environment files
+.env
+.env.*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Model / large assets
+models/
+checkpoints/
+weights/
+*.ckpt
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# Chrome / browser profile cache
+amazon_chrome_profile/
+**/amazon_chrome_profile/
+Cache/
+Cache_Data/
+Code Cache/
+GPUCache/

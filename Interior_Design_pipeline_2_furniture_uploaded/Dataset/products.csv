@@ -1,0 +1,3 @@
+product_type,dataset_product_folder,local_image,public_cutout_url,room_public_url
+bed,bed,Dataset/bed/image.png,https://res.cloudinary.com/dr0may9zw/image/upload/v1776178961/interior_design/cutouts/bed/image_bed_01_cutout.png,https://res.cloudinary.com/dr0may9zw/image/upload/v1776179300/interior_design/room/59843f82cfb346a2bb9e55bdf21dc065_room.jpg
+dressing_table,dressing_table,Dataset/dressing_table/image.png,https://res.cloudinary.com/dr0may9zw/image/upload/v1776178962/interior_design/cutouts/dressing_table/image_dressing_table_gdino_cutout.png,https://res.cloudinary.com/dr0may9zw/image/upload/v1776179300/interior_design/room/59843f82cfb346a2bb9e55bdf21dc065_room.jpg
